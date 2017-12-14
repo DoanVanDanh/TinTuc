@@ -1,0 +1,18 @@
+#hangTieuDe{
+	background-color:#09F; 
+	color:white; 
+	font-size:24px; 
+	padding::10px
+}
+#hang2 a{
+	width:150px; 
+	padding:10px;
+	background-color:#03F;
+	color:#FFF;
+	font-weight:bold;
+	display:block; /*cho hết vô 1 khung*/
+	float:left; /* ghi dịch lên 1 dòng trái*/
+	margin-right:1px; /*độ cách giữa các menu*/
+	text-align:center;
+}
+#hang2 a:hover{background-color:#F00} /*rê chuột tới đâu đổi khung nền*/
